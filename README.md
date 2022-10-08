@@ -1,4 +1,4 @@
-### Hi there 👋
+### C is my native language 👋
 
 <!--
 **MathiasSchneider86/MathiasSchneider86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
