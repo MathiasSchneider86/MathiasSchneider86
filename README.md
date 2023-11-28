@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Account obsolete. All content will be moved to:
-<href="https://github.com/MSchneiderSB">
+https://github.com/MSchneiderSB
